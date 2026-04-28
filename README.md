@@ -65,8 +65,7 @@ QuantizerNTDS-Semiglobal includes the following key functions.
 - `zoom_mu`:  
   Implements the piecewise-constant zoom variable $\mu(t)$ used in the switched quantization scheme.
 - `quantizer`:  
-  Implements the uniform mid-tread quantizer for the state and actuator channels,  
-  $q(v/\mu) = \Delta\lfloor v/(\mu\Delta) + 1/2 \rfloor$, saturated at $\pm M$.
+  Implements the uniform quantizer.
 
 #### Nonlinear time-delay system — input quantization
 
