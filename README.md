@@ -10,7 +10,7 @@ This project simulates:
 - A nonlinear time-delay system subject to **state quantization** with a switched predictor-feedback law and a dynamic zoom variable.
 - A nonlinear time-delay system subject to **input quantization** with a switched predictor-feedback law and a dynamic zoom variable.
 
-For detailed equations, assumptions, and parameter choices, please refer to the associated paper and ([mathematical details](https://tucgr-my.sharepoint.com/:b:/g/personal/fkoudohode_tuc_gr/IQCoGetOVjLqRbc_9GSRV1PzAfJWCezM5ERkle7298em9BM?e=9DeQjZ).
+For detailed equations, assumptions, and parameter choices, please refer to the associated paper and ([mathematical details](https://tucgr-my.sharepoint.com/:b:/g/personal/fkoudohode_tuc_gr/IQCoGetOVjLqRbc_9GSRV1PzAfJWCezM5ERkle7298em9BM?e=9DeQjZ)).
 
 ## Requirements
 
